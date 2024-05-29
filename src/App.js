@@ -14,7 +14,7 @@ import Enquiries from './components/Enquiries';
 function App() {
 
   let [housesData,setHousesData] = useState([]);
-
+// added comment in app.js
   // get the data here, using fetch
   //async await with fetch and get json
   // console.log to check if data is correct
